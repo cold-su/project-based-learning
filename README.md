@@ -1,8 +1,5 @@
 # 项目以学为实基
 
-[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-
 本系列教程旨在让开发者，在软件方面有志向的，学习如何从头开始建立一个App。这些教程按编程语言分类，择需阅之。本教程可能涉及多种技术和编程语言。
 
 ## 目录:
