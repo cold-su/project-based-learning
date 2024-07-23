@@ -667,3 +667,4 @@
 - [CodeCrafters](https://codecrafters.io/)
 - [Practical Vim（中文）](https://learnku.com/docs/practical-vim-2nd-edition)
 - [适合初学者的简单 Git 教程](https://nulab.com/zh-cn/learn/software-development/git-tutorial/)
+- [深入理解计算机系统结构](https://github.com/vonzhou/CSAPP)
