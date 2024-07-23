@@ -11,7 +11,6 @@
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [F#](#f)
-- [Git](#git)
 - [Go](#go)
 - [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
@@ -27,7 +26,6 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
-- [Vim](#vim)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -525,10 +523,6 @@
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
 
-## Git
-
-- [适合初学者的简单 Git 教程](https://nulab.com/zh-cn/learn/software-development/git-tutorial/)
-
 ## Go:
 
 - [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
@@ -657,11 +651,7 @@
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
 
-## Vim
-
-- [Practical Vim](https://learnku.com/docs/practical-vim-2nd-edition)
-
-## Additional Resources
+## 外链
 
 - [React Redux Links](https://github.com/markerikson/react-redux-links)
 - [Udemy.com](https://www.udemy.com/)
@@ -675,3 +665,5 @@
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+- [Practical Vim（中文）](https://learnku.com/docs/practical-vim-2nd-edition)
+- [适合初学者的简单 Git 教程](https://nulab.com/zh-cn/learn/software-development/git-tutorial/)
