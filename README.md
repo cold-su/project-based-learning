@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [C#](#c)
+- [C#](#csharp)
 - [C/C++](#cc)
 - [Clojure](#clojure)
 - [Dart](#dart)
@@ -26,7 +26,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
-- [Additional resources](#additional-resources)
+- [外链](#外链)
 
 ## C/C++
 
@@ -149,7 +149,7 @@
 - [Handmade Hero](https://handmadehero.org)
 - [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
 
-## C #
+## CSharp
 
 - [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 - [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
@@ -193,7 +193,7 @@
 - [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
 - [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html)
 
-## F #
+## F
 
 - [Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel)
 
@@ -369,7 +369,7 @@
 - [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
 - [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
 
-### Web Applications
+### Python:Web Applications
 
 - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/)
@@ -499,7 +499,7 @@
 - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
 - [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
 
-### Miscellaneous
+### Python:Miscellaneous
 
 - [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Build a Simple Blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
